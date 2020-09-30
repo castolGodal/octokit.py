@@ -4,6 +4,6 @@
 
 A GitHub API client for Python.
 
-## Testing
+## pls note these project is in Testing phase 
 
 Run `./script/test`
